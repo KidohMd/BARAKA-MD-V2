@@ -1,7 +1,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-<p align="center">                                              𝐁𝐀𝐑𝐀𝐊𝐀-𝐌𝐃-𝐕2
+<p align="center">                                             KIDOH-𝐌𝐃-𝐕2
 
 
 
@@ -15,7 +15,7 @@
 
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=THIS+IS+BARAKA-MD+MADE+IN+TANZANIA🇹🇿❤️🇹🇿+" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=KIDOH+LOVE+ALL+OF+Y0U MD+MADE+IN+KENYA🇰🇪🌼🛐+" alt="Typing SVG" /></a>
 
 
 
@@ -24,8 +24,8 @@
 
 
    <p align="left">
-  <a href="https://github.com/Barakabega/BARAKA-MD-V2/fork">
-    <img src="https://img.shields.io/github/forks/Barakabega/BARAKA-MD-V2?label=Fork&style=social">
+  <a href="https://github.com/Barakabega/KIDOH-MD-V2/fork">
+    <img src="https://img.shields.io/github/forks/Barakabega/KIDOH-MD-V2?label=Fork&style=social">
   <p align="left"> 
   <a href="https://github.com/Barakabega/BARAKA-MD-V2/stargazers">
     <img src="https://img.shields.io/github/stars/Barakabega/BARAKA-MD-V2?style=social">
